@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "package:ventanaModal",
+    "appService.deploySubpath": "target\\ventanaModal-1.0-SNAPSHOT.war",
+    "appService.defaultWebAppToDeploy": "/subscriptions/56d2a37a-0bd5-43e0-8a76-f183688d8d75/resourceGroups/Cotizador2_group/providers/Microsoft.Web/sites/Cotizador2"
+}
