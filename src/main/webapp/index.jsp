@@ -87,8 +87,9 @@
                             <option value="Computo">Computo</option>
                             <option value="Accesorios">Accesorios</option>
                             <option value="Licencias">Licencias</option>
-                            <option value="Sophos">Sophos</option>
-                            <option value="Fortinet">Fortinet</option>
+                            <option value="Sophos">Infraestructura</option>
+                            <option value="Fortinet">Desarrollo</option>
+                            <option value="Fortinet">Mantenimientos</option>
             <!-- Agrega más opciones según tu caso -->
                             </select>
                           </div>
